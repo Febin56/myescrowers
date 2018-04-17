@@ -1,5 +1,5 @@
-var Token = artifacts.require("./Token.sol");
+var Escrow = artifacts.require("./Escrow.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Token);
+  deployer.deploy(Escrow);
 };

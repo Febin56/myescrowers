@@ -1,0 +1,71 @@
+body {
+    margin-top: 2%;
+    font-family: "Open Sans", sans-serif;
+    background-color: whitesmoke;
+  
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 5px;
+  }
+  
+  thead {
+    background-color: white;
+  }
+  
+  tbody {
+    background-color: silver;
+  }
+  
+  h1, h2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 0px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-weight: normal;
+    color: #AAA;
+    font-size: 24px;
+  }
+  
+  .black {
+    color: black;
+  }
+  
+  #balance {
+    color: black;
+  }
+  
+  .hint {
+    color: #666;
+  }
+  
+  .col{
+    margin: auto;
+    width: 30%;
+    padding-top: 20px;
+  }
+  
+  #sentId {
+    display: none;
+    width: 250px;
+  }
+  
+  #recId {
+    display: none;
+    width: 250px;
+  }
+  
